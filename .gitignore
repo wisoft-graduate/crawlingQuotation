@@ -4,14 +4,10 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
-### IntelliJ IDEA ###
-.idea/modules.xml
-.idea/jarRepositories.xml
-.idea/compiler.xml
-.idea/libraries/
-*.iws
-*.iml
-*.ipr
+### IntelliJ IDEA ###.idea/modules.xml
+
+.idea/
+
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
@@ -34,6 +30,7 @@ bin/
 /dist/
 /nbdist/
 /.nb-gradle/
+
 
 ### VS Code ###
 .vscode/
